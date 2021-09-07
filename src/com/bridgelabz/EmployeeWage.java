@@ -11,6 +11,7 @@ public class EmployeeWage {
         int totalEmpHrs = 0;
         int totalEmpWage = 0;
         int totalWorkingDays = 0;
+        System.out.println("welcome!!");
 
         while(totalEmpHrs <= MAX_HRS_IN_MONTH && totalWorkingDays < NUM_OF_WORKING_DAYS)
         {
